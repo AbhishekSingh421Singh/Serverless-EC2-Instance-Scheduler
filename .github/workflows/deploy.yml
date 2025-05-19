@@ -1,5 +1,5 @@
 
-name: Serverless EC2 Instance Scheduler for Company Working Hours
+name: Serverless EC2 Instance Scheduler for Company Working
 on:
   push:
     branches: [main]
